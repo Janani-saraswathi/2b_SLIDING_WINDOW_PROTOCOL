@@ -1,5 +1,7 @@
 # 2b IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
-## AIM
+DATE:05/02/2026
+## AIM:
+To implement a program to illustrate the mechanism of sliding window protocol
 ## ALGORITHM:
 1. Start the program.
 2. Get the frame size from the user
