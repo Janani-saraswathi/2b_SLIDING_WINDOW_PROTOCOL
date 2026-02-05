@@ -57,6 +57,8 @@ conn.close()
 s.close()
 ```
 
-## OUPUT
+## OUPUT:
+![alt text](<Screenshot 2026-02-05 110756.png>)
+
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
